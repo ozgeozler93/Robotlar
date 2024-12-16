@@ -1,0 +1,1 @@
+/home/user/robotlar_odev3_ws/devel/.private/robotlar_odev3/lib/pkgconfig/robotlar_odev3.pc

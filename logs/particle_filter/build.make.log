@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target odom_bag_node[0m
+[ 50%] Built target particle_filter_node
+[ 75%] [32mBuilding CXX object CMakeFiles/odom_bag_node.dir/src/odom_bag.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/user/robotlar_odev3_ws/devel/.private/particle_filter/lib/particle_filter/odom_bag_node[0m
+[100%] Built target odom_bag_node

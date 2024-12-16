@@ -1,0 +1,6 @@
+devel_space: /home/user/robotlar_odev3_ws/devel
+install: false
+install_space: /home/user/robotlar_odev3_ws/install
+profile: default
+source_space: /home/user/robotlar_odev3_ws/src
+workspace: /home/user/robotlar_odev3_ws

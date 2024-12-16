@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robotlar_odev3</name>
+  <version>0.0.0</version>
+  <description>The robotlar_odev3 package</description>
+  <maintainer email="ozgeozler93@example.com">makbuleozge</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <exec_depend>roscpp</exec_depend>
+</package>

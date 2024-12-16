@@ -1,0 +1,1 @@
+/home/user/robotlar_odev3_ws/devel/.private/robotlar_odev3/share/robotlar_odev3/cmake/robotlar_odev3Config-version.cmake
